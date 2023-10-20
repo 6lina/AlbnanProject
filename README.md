@@ -6,3 +6,7 @@ This repository is about a software documentation for albanan project
 
 
 ![IMG_9805](https://github.com/6lina/AlbnanProject/assets/120276705/c0790d3e-da0e-4bff-8b10-0e7ea5bd4894)
+
+
+
+![IMG_9804](https://github.com/6lina/AlbnanProject/assets/120276705/0d560f37-52a6-4eaa-be5a-862407328a7b)
